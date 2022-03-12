@@ -12,3 +12,12 @@ Kelas : TI.20.B.1<br>
 > * Menampilkan title HTML pada browser <br>
 
 ![Gambar title HTML dasar](pictures/titleHTML.png)
+
+<br>
+
+1. **Membuat Paragraf**
+<br>
+pada tahap ini saya akan membuat paragraf pada file HTML. <br>
+pada syntax p bertujuan untuk membuat paragraf baru. berikut tampilanya. <br>
+
+![Gambar membuat paragraf baru](pictures/paragraf1.png)
