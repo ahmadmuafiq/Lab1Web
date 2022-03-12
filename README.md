@@ -21,3 +21,9 @@ pada tahap ini saya akan membuat paragraf pada file HTML. <br>
 pada syntax p bertujuan untuk membuat paragraf baru. berikut tampilanya. <br>
 
 ![Gambar membuat paragraf baru](pictures/paragraf1.png)
+
+- **Atribut Paragraf**
+
+Disini saya akan merubah posisi paragraf yang sudah tersedia, yaitu paragraf pertama menjadi rata tengah dan paragraf kedua rata kanan. Berikut tampilanya.
+
+![Gambar atribut paragraf](pictures/alignparagraf.png)
