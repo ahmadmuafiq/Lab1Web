@@ -15,7 +15,7 @@ Kelas : TI.20.B.1<br>
 
 <br>
 
-1. **Membuat Paragraf**
+**1. Membuat Paragraf**
 <br>
 pada tahap ini saya akan membuat paragraf pada file HTML. <br>
 pada syntax p bertujuan untuk membuat paragraf baru. berikut tampilanya. <br>
@@ -27,3 +27,10 @@ pada syntax p bertujuan untuk membuat paragraf baru. berikut tampilanya. <br>
 Disini saya akan merubah posisi paragraf yang sudah tersedia, yaitu paragraf pertama menjadi rata tengah dan paragraf kedua rata kanan. Berikut tampilanya.
 
 ![Gambar atribut paragraf](pictures/alignparagraf.png)
+
+**3. Menambahkan Judul**
+
+Pada tahap berikutnya saya akan menambahkan judul dari materi yang telah disusun dengan perubahan ukuran font yang bebeda. Berikut tampilanya.
+
+![Gambar menambahkan judul](pictures/judul.png)
+
