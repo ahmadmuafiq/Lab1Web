@@ -42,6 +42,14 @@ selanjutnya disini saya akan sedikit mengganti format teks berupa bakground warn
 
 **5. Menambahkan Gambar pada Dokumen**
 
-penambahan gambar pada dokumen
+Penambahan gambar pada dokumen. Berikut Tampilanya.
 
 ![Gambar input gambar](pictures/inputlogo.png)
+
+**6. Menambahkan Hyperlink**
+
+Menambahkan Link tambahan atau hyperlink. Berikut Tampilanya.
+
+![Gambar hyperlink](pictures/hyperlink.png)
+<hr>
+
