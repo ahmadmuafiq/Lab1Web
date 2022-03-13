@@ -44,4 +44,4 @@ selanjutnya disini saya akan sedikit mengganti format teks berupa bakground warn
 
 penambahan gambar pada dokumen
 
-[Gambar input gambar](pictures/inputlogo.png)
+![Gambar input gambar](pictures/inputlogo.png)
