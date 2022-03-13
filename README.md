@@ -39,3 +39,9 @@ Pada tahap berikutnya saya akan menambahkan judul dari materi yang telah disusun
 selanjutnya disini saya akan sedikit mengganti format teks berupa bakground warna pda teks, ketebalan teks, teks miring dan garis bawah pada teks dalam HTML. Berikut Tampilanya.
 
 ![Gambar Format Teks](pictures/formatteks.png)
+
+**5. Menambahkan Gambar pada Dokumen**
+
+penambahan gambar pada dokumen
+
+[Gambar input gambar](pictures/inputlogo.png)
