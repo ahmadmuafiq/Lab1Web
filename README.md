@@ -34,3 +34,8 @@ Pada tahap berikutnya saya akan menambahkan judul dari materi yang telah disusun
 
 ![Gambar menambahkan judul](pictures/judul.png)
 
+**4. Format teks**
+
+selanjutnya disini saya akan sedikit mengganti format teks berupa bakground warna pda teks, ketebalan teks, teks miring dan garis bawah pada teks dalam HTML. Berikut Tampilanya.
+
+![Gambar Format Teks](pictures/formatteks.png)
