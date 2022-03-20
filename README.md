@@ -1,5 +1,5 @@
 # Lab1Web
-## Tugas Pemograman Web - pertemuan 2
+## Tugas Pemograman Web - pertemuan 2 Praktikum 1
 
 <hr>
 
